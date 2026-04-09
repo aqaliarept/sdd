@@ -1,0 +1,8 @@
+{
+  "hooks": [
+    {
+      "event": "InstructionsLoaded",
+      "command": "bash ${CLAUDE_PLUGIN_ROOT}/hooks/enrich-claude-md.sh"
+    }
+  ]
+}
