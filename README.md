@@ -7,7 +7,7 @@ My personal Claude Code plugin — shared skills, agents, and settings across al
 In any project, run:
 
 ```bash
-/plugin install aqaliarept/sdd
+/plugin install https://github.com/aqaliarept/sdd
 ```
 
 ## Usage
