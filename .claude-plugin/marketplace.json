@@ -1,11 +1,11 @@
 {
-  "name": "my-claude",
+  "name": "sdd",
   "owner": {
     "name": "aqaliarept"
   },
   "plugins": [
     {
-      "name": "my-claude",
+      "name": "sdd",
       "source": "./",
       "description": "My personal Claude Code skills and agents"
     }

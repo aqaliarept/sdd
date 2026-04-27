@@ -1,4 +1,4 @@
-# my-claude
+# sdd
 
 My personal Claude Code plugin — shared skills, agents, and settings across all projects.
 
@@ -7,7 +7,7 @@ My personal Claude Code plugin — shared skills, agents, and settings across al
 In any project, run:
 
 ```bash
-/plugin install aqaliarept/my-claude
+/plugin install aqaliarept/sdd
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ In any project, run:
 Invoke a skill by its name prefixed with the plugin name:
 
 ```
-/my-claude:grill-me
+/sdd:grill-me
 ```
 
 ### Agents
@@ -25,7 +25,7 @@ Invoke a skill by its name prefixed with the plugin name:
 Agents are invoked automatically based on their `description` field, or explicitly:
 
 ```
-/my-claude:example-agent
+/sdd:example-agent
 ```
 
 ## Contents
@@ -101,5 +101,5 @@ Shell commands that run in response to Claude Code events (e.g. `PostToolUse`, `
 After pushing changes to this repo:
 
 ```bash
-/plugin update my-claude
+/plugin update sdd
 ```
